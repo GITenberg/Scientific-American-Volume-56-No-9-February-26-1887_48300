@@ -1,0 +1,22 @@
+_repo: Scientific-American-Volume-56-No-9-February-26-1887_48300
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Periodicals'
+- !lcc 'T'
+- !lcsh 'Technology -- Periodicals'
+title: Scientific American, Volume 56, No. 9, February 26, 1887
+url: http://www.gutenberg.org/ebooks/48300
